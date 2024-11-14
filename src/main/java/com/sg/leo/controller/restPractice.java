@@ -27,3 +27,5 @@ public class restPractice {
 		return "/getparam name =" + name +", email = "+email;
 	}
 }
+//나는장형준이다
+
